@@ -72,9 +72,9 @@
         }
     }
 
-    class Program
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
             var hotelBooking = new HotelBooking();
             hotelBooking.AddBooking("A", "01/01/2024", 13, 15);

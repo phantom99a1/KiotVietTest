@@ -12,3 +12,4 @@ D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\refint\Booking Room Ma
 D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.pdb
 D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.genruntimeconfig.cache
 D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\ref\Booking Room Management.dll
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.sourcelink.json

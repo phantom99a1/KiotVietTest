@@ -12,3 +12,4 @@ D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\refint\Water Bottle Probl
 D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.pdb
 D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.genruntimeconfig.cache
 D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\ref\Water Bottle Problem.dll
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.sourcelink.json
