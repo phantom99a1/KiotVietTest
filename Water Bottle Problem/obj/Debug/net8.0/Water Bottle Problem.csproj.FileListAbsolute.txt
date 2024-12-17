@@ -1,0 +1,14 @@
+D:\KiotViet Test\Water Bottle Problem\bin\Debug\net8.0\Water Bottle Problem.exe
+D:\KiotViet Test\Water Bottle Problem\bin\Debug\net8.0\Water Bottle Problem.deps.json
+D:\KiotViet Test\Water Bottle Problem\bin\Debug\net8.0\Water Bottle Problem.runtimeconfig.json
+D:\KiotViet Test\Water Bottle Problem\bin\Debug\net8.0\Water Bottle Problem.dll
+D:\KiotViet Test\Water Bottle Problem\bin\Debug\net8.0\Water Bottle Problem.pdb
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.AssemblyInfoInputs.cache
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.AssemblyInfo.cs
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.csproj.CoreCompileInputs.cache
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.dll
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\refint\Water Bottle Problem.dll
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.pdb
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\Water Bottle Problem.genruntimeconfig.cache
+D:\KiotViet Test\Water Bottle Problem\obj\Debug\net8.0\ref\Water Bottle Problem.dll

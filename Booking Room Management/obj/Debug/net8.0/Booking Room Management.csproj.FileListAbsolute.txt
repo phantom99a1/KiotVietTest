@@ -1,0 +1,14 @@
+D:\KiotViet Test\Booking Room Management\bin\Debug\net8.0\Booking Room Management.exe
+D:\KiotViet Test\Booking Room Management\bin\Debug\net8.0\Booking Room Management.deps.json
+D:\KiotViet Test\Booking Room Management\bin\Debug\net8.0\Booking Room Management.runtimeconfig.json
+D:\KiotViet Test\Booking Room Management\bin\Debug\net8.0\Booking Room Management.dll
+D:\KiotViet Test\Booking Room Management\bin\Debug\net8.0\Booking Room Management.pdb
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.AssemblyInfoInputs.cache
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.AssemblyInfo.cs
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.csproj.CoreCompileInputs.cache
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.dll
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\refint\Booking Room Management.dll
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.pdb
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\Booking Room Management.genruntimeconfig.cache
+D:\KiotViet Test\Booking Room Management\obj\Debug\net8.0\ref\Booking Room Management.dll
